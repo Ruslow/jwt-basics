@@ -1,2 +1,7 @@
 npm install
-npm start (if nodemon is installed)
+
+if nodemon is installed globally:
+npm start 
+
+if not: 
+node app.js
